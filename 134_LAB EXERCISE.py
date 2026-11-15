@@ -1,3 +1,5 @@
+#Lab exercise 1- Setting Up VS Code
+print("Hello World!")
 #Lab Exercise 8: Contact book using lists and dictionaries
 
 contacts = {}
